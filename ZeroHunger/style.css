@@ -1,0 +1,248 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'montserrat';
+    color: white;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#page1{
+    width: 100%;
+    height: 100%;
+    background-image:url(Pic1.jpg); 
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    list-style-type:none ;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.288);
+    color: white;
+    height: 7%;
+
+}
+li{
+    float: right;
+    padding: 12px;
+    font-size: 25px;
+
+}
+li:hover{
+    color: rgba(255, 255, 255, 0.432);
+    cursor: pointer;
+}
+.navlogo{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    left: 5%;
+}
+.company-name{
+    color: white;
+    font-size: 70px;
+    margin-top: 290px;
+    margin-left: 2%;
+}
+.Missionbox{
+    height: 300px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.397);
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    margin-left: 3%;
+    margin-top: 70px;
+    text-align: center;
+}
+#page2{
+    height: 100%;
+    width: 100%;
+    background-image: url(Bg2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.intro{
+    height: 37%;
+    width: 60%;
+    background-color: rgba(0, 0, 0, 0.425);
+    border-radius: 10px;
+    margin-top: 5%;
+    position: absolute;
+    margin-left: 2%;
+    padding-left: 8px ;
+}
+.intro2{
+    height: 50%;
+    width:75% ;
+    background-color: rgba(0, 0, 0, 0.548);
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 15%;
+    padding-left: 8px ;
+    }
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: #131516;
+}
+.a1{
+    height: 60%;
+    width: 30%;
+}
+.a1{
+    margin-left: 3%;
+    margin-top: 7%;
+    position: absolute;
+}
+
+.no1{
+    margin-left: 110%;
+    margin-top: -130%;
+    position: absolute;
+}
+.i1{
+    margin-top: -150%;
+    margin-left: 120%;
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    text-align: center;
+}
+.ii1{
+    height: 100%;
+    width: 100%;
+}
+#page4{
+    height: 100%;
+    width: 100%;
+    background-image: url(bg4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.a2{
+    width: 40%;
+    height: 70%;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 3%;
+}
+.img1{
+    position: absolute;
+    margin-left: 120%;
+    margin-top: -250px;
+}
+.a3{
+    width: 40%;
+    height: 50%;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 3%;
+}
+.img2{
+    margin-top: -300px;
+    margin-left: 120%;
+    position: absolute;
+}
+.page6{
+    height: 100%;
+    width: 100%;
+    background-image: url(pic2.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+.tb1{
+    background-color: rgba(0, 0, 0, 0.699);
+    height: 40%;
+    width: 60%;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 3%;
+    padding-left: 8px ;
+}
+.tb2{
+    background-color: rgba(0, 0, 0, 0.699);
+    height: 40%;
+    width: 40%;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 3%;
+    padding-left: 8px ;
+}
+
+.tb3{
+    background-color: rgba(0, 0, 0, 0.699);
+    height: 90%;
+    width: 90%;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 120%;
+    padding-left: 8px ;
+    
+}
+.page5{
+    height: 100%;
+    width: 100%;
+    background-image: url(bg5.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.b1{
+    height: 50%;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.699);
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 3%;
+    padding-left: 8px;
+}
+.b2{
+    height: 52%;
+    width: 60%;
+    background-color: rgba(0, 0, 0, 0.699);
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 28%;
+    margin-left: 37%;
+    padding-left: 8px;
+}
+.T1{
+    height: 100%;
+    width: 100%;
+    background-color: #131516;
+}
+.pics{
+    margin-left: 2%;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.k1{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+
+}
+.k2{
+    height: 300px;
+    width: 330px;
+    border-radius: 100%;
+}
+.d{
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    margin-top: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+
+}
